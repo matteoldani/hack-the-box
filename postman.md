@@ -38,7 +38,7 @@ so we can do from the redis user:
 
 Mission completed! We logged in as Matt and have our user flag.
 
-## User
+## Root
 
 I come back to the webmin system. There are differents exploit solution to apply after a quick look on google
 

@@ -1,4 +1,4 @@
-# Sauna walkthroughs
+# Sauna walkthrough
 
 Machine ip: 10.10.10.175
 
